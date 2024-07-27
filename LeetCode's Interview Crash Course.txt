@@ -1,0 +1,182 @@
+LeetCode's Interview Crash Course
+Data Structures and Algorithms
+$
+89.99
+
+
+Arrays and strings
+Hashmaps and sets
+Linked lists
+Stacks and queues
+Trees and graphs
+Heaps
+Greedy algorithms
+Binary search
+Backtracking
+Dynamic programming
+
+--------------------------------------
+
+Introduction
+ A Testimonials
+ A Introduction to big O
+ A Introduction to recursion
+ A Notes before starting
+
+Arrays and strings
+ A Arrays and strings
+ A Two pointers
+   Reverse String
+   Squares of a Sorted Array
+ A Sliding window
+   Maximum Average Subarray I
+   Max Consecutive Ones III
+ A Prefix sum
+   Running Sum of 1d Array
+   Minimum Value to Get Positive S...
+   K Radius Subarray Averages 
+ A More common patterns
+ A Arrays and string quiz
+ A Bonus problems, arrays and stri...
+
+Hashing
+ A Hashing
+ A Checking for existence 
+   Check if the Sentence Is Pangram
+   Missing Number
+   Counting Elements
+ A Counting
+   Find Players With Zero or One L...
+   Largest Uniqie Number
+   Maximum Number of Ballons
+   Contiguous Array
+ A More hashing examples
+   Ransom Note
+   Jewels and Stones
+   Longest Substring Without Repe...
+ A Hashing quiz
+ A Bonus problems, hashing
+
+Linked lists
+ A Linked lists
+ A Fast and slow pointers
+   Middle of the Linked List
+   Remove Duplicates from Sorted
+ A Reversing a linked list
+   Revers Linked List II 
+ A Linked list quiz
+ A Bonus problems, linked lists
+
+Stacks and queues
+ A Stacks
+ A String problems
+   Simplify Path
+   Make The String Great
+ A Queues 
+   Moving Average from Data Strea...
+ A Monotonic
+   Next Greater Element I
+   Online Stock Span
+ A Stacks and queues quiz
+ A Bonus problems, stack and que...
+ 
+Tress and graphs
+ A Binary trees
+ A Binary trees - DFS
+   Minimum Depth of Binary Tree
+   Maximum Difference Between N...
+   Diameter of Binary Tree
+ A Binary trees - BFS
+   Deepest Leaves Sum
+   Binary Tree Zigzag Level Order T...
+ A Binary search trees
+   Insert into a Binary Search Tree
+   Closest Binary Search Tree Value
+ A Trees quiz
+ A Graphs
+ A Graphs - DFS
+   Find if Path Exists in Graph
+   Number of Connected Compone...
+   Max Area of Island
+   Reachable Nodes With Restricti...
+ A Graphs - BFS
+   Nearest Exit from Entrance in M...
+   Snakes and Ladders
+ A Implicit graphs
+   Minimum Genetic Mutation
+   Jump Game III
+   Detonate the Maximum Bombs
+   Word Ladder
+ A Graphs quiz
+ A Bonus problems, trees and graphs
+
+Greedy
+ A Greedy algorithms
+ A Example greedy problems
+   Maximum 69 Number
+   Maximum Units on a Truck
+   How many Apples Can You Put i...
+   Reduce Array Size to The Half
+ A Greedy quiz
+ A Bonus problems, greedy
+
+Binary search
+ A Binary Search
+  A On arrays
+     Search Insert Position
+   Longest Subsequence With Limit...
+ A On solution spaces
+   Find the Smallest Divisor Given a...
+   Divide Chocolate
+   Split Array Largest Sum
+ A Binary search quiz
+ A Bonus problems, binary search
+
+
+Backtracking
+ A Backtracking
+ A Generation
+   All Paths From Source to Target
+   Letter Combination of a Phone ...
+ A More constrained backtracking
+   Generate Parentheses
+   Numbers With Same Consecutiv...
+   Combination Sum III
+ A Backtracking quiz
+ A Bonus problems, backtracking
+
+Dynamic programming
+ A Dynamic programming
+ A Framework for DP
+ A 1D problems
+  Climbing Stairs
+  Min Cost Climbing Stairs
+  Coin Change
+ A Multi-dimensional problems
+  Best Time to Buy and Sell Stock...
+  Best Time to Buy and Sell Stock...
+ A Matrix DP
+  Unique Paths II
+  Minimum Falling Path Sum
+ A Dynamic programming quiz
+ A Bonus problems, dynamic progr...
+
+Interviews and tools
+ A Code templated
+ A Stages of an interview
+ A Cheatsheets
+ A Mock interviews
+
+Bonus
+ A Difference array
+ A Tries
+   Implement Trie (Prefix Tree)
+ A Bit manipulation
+   Hamming Distance
+ A Intervals
+   Insert Interval
+ A Modular arithmetic
+ A Djikstra's
+   Cheapest Flights Within K Stops
+ A Final quiz
+ A Next steps
